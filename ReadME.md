@@ -170,4 +170,4 @@ Data Analysis Portfolio Project
 ![Data Charts_](https://raw.githubusercontent.com/muhammedsabryelsayed/Data-Analysis-Portfolio/main/Excel%20Project%20Images/Data%20Charts_.png)
 
 **Data Analysis With Power Pivot and Use Timeline&Slicer**
-![Pivot Table With Insert Slicer](https://raw.githubusercontent.com/muhammedsabryelsayed/Data-Analysis-Portfolio/main/Excel%20Project%20Images/Pivot%20Table%20With%20insert%20Slicer&timeline.png)
+![Pivot Table with Timeline & Slicer](https://raw.githubusercontent.com/muhammedsabryelsayed/Data-Analysis-Portfolio/main/Excel%20Project%20Images/Pivot%20Table%20and%20insert%20Timeline%26Slicer_.png)
