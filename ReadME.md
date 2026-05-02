@@ -169,8 +169,8 @@ Data Analysis Portfolio Project
 **Visualization Data With Excel Charts**
 ![Data Charts_](https://raw.githubusercontent.com/muhammedsabryelsayed/Data-Analysis-Portfolio/main/Excel%20Project%20Images/Data%20Charts_.png)
 
-**Data Analysis With Power Pivot&Pivot Charts and Use Timeline&Slicer**
+**Data Analysis With Power Pivot table &Pivot Charts and Use Timeline&Slicer**
 ![Pivot Table and Pivot Chart](Excel%20Project%20Images/Pivot%20table%20and%20Pivot%20chart.png)
 
-**Top Sales with Pivot tale&pivot chart**
+**Top Sales with Pivot table&pivot chart**
 ![Top Sales with Pivot Chart](Excel%20Project%20Images/Top%20Sales%20with%20Pivot%20tale&pivot%20chart.png)
