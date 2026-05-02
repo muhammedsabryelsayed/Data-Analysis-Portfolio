@@ -171,3 +171,6 @@ Data Analysis Portfolio Project
 
 **Data Analysis With Power Pivot&Pivot Charts and Use Timeline&Slicer**
 ![Pivot Table and Pivot Chart](Excel%20Project%20Images/Pivot%20table%20and%20Pivot%20chart.png)
+
+**Top Sales with Pivot tale&pivot chart**
+![Top Sales with Pivot Chart](Excel%20Project%20Images/Top%20Sales%20with%20Pivot%20tale&pivot%20chart.png)
